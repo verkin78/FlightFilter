@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="216ada1f-05c0-4997-993e-30bf82e5b86a" name="Changes" comment="Добавлено логирование в проект и FlightFilterFactory.java">
+    <list default="true" id="216ada1f-05c0-4997-993e-30bf82e5b86a" name="Changes" comment="Добавлен application.yaml">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +30,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/Flight/src/main/java/com/gridnine/testing"
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Flight"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Flight" />
+      <recent name="C:\Users\User\IdeaProjects\Flight\src\main\resources" />
+      <recent name="C:\Users\User\IdeaProjects\Flight\src\main\java\com\gridnine\testing\filter" />
       <recent name="C:\Users\User\IdeaProjects\Flight\src\main\java\com\gridnine\testing" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -49,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686375579013</updated>
-      <workItem from="1686375580584" duration="657000" />
+      <workItem from="1686375580584" duration="958000" />
     </task>
     <task id="LOCAL-00001" summary="Подключены необходимые библиотеки">
       <created>1686375792173</created>
@@ -86,7 +90,28 @@
       <option name="project" value="LOCAL" />
       <updated>1686376226474</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Добавлено Departing классы для обработки разных ситуаций">
+      <created>1686376334054</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686376334054</updated>
+    </task>
+    <task id="LOCAL-00007" summary="В Main класс добвален проверочный код">
+      <created>1686376421809</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686376421809</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Добавлен application.yaml">
+      <created>1686376493523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686376493523</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +133,9 @@
     <MESSAGE value="Добавлен пакет flight с классами из ТЗ" />
     <MESSAGE value="Добавлен интерй=фнйс FlightFilter" />
     <MESSAGE value="Добавлено логирование в проект и FlightFilterFactory.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлено логирование в проект и FlightFilterFactory.java" />
+    <MESSAGE value="Добавлено Departing классы для обработки разных ситуаций" />
+    <MESSAGE value="В Main класс добвален проверочный код" />
+    <MESSAGE value="Добавлен application.yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен application.yaml" />
   </component>
 </project>
