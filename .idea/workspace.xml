@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="216ada1f-05c0-4997-993e-30bf82e5b86a" name="Changes" comment="Подключены необходимые библиотеки">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gridnine/testing/flight/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gridnine/testing/flight/FlightBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/gridnine/testing/flight/Segment.java" afterDir="false" />
+    <list default="true" id="216ada1f-05c0-4997-993e-30bf82e5b86a" name="Changes" comment="Добавлено логирование в проект и FlightFilterFactory.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +32,15 @@
     "last_opened_file_path": "C:/Users/User/IdeaProjects/Flight/src/main/java/com/gridnine/testing"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Flight\src\main\java\com\gridnine\testing" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gridnine.testing.util" />
+      <recent name="com.gridnine.testing.filter" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -42,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686375579013</updated>
-      <workItem from="1686375580584" duration="330000" />
+      <workItem from="1686375580584" duration="657000" />
     </task>
     <task id="LOCAL-00001" summary="Подключены необходимые библиотеки">
       <created>1686375792173</created>
@@ -51,7 +58,35 @@
       <option name="project" value="LOCAL" />
       <updated>1686375792173</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Добавлен пакет flight с классами из ТЗ">
+      <created>1686375948049</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686375948049</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавлен интерй=фнйс FlightFilter">
+      <created>1686376090779</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686376090779</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Добавлен интерй=фнйс FlightFilter">
+      <created>1686376112685</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686376112685</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Добавлено логирование в проект и FlightFilterFactory.java">
+      <created>1686376226474</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686376226474</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +105,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Подключены необходимые библиотеки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Подключены необходимые библиотеки" />
+    <MESSAGE value="Добавлен пакет flight с классами из ТЗ" />
+    <MESSAGE value="Добавлен интерй=фнйс FlightFilter" />
+    <MESSAGE value="Добавлено логирование в проект и FlightFilterFactory.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлено логирование в проект и FlightFilterFactory.java" />
   </component>
 </project>
