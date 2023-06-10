@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="216ada1f-05c0-4997-993e-30bf82e5b86a" name="Changes" comment="" />
+    <list default="true" id="216ada1f-05c0-4997-993e-30bf82e5b86a" name="Changes" comment="Подключены необходимые библиотеки">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gridnine/testing/flight/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gridnine/testing/flight/FlightBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/gridnine/testing/flight/Segment.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +27,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Flight/src/main/java/com/gridnine/testing"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,8 +39,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686375579013</updated>
+      <workItem from="1686375580584" duration="330000" />
     </task>
+    <task id="LOCAL-00001" summary="Подключены необходимые библиотеки">
+      <created>1686375792173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686375792173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -47,5 +64,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Подключены необходимые библиотеки" />
+    <option name="LAST_COMMIT_MESSAGE" value="Подключены необходимые библиотеки" />
   </component>
 </project>
